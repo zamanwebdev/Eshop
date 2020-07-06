@@ -1,0 +1,48 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header_top{
+	background-color: #FFFE67;
+	height: 144px;
+}
+.shopping_cart {
+    background-color: #A349A4;
+    width: 214px;
+    height: 70px;
+    position: relative;
+    left: 102px;
+}
+
+.cart {
+    padding-left: 11px;
+    padding-top: 13px;
+    font-size: 27px;
+}
+.shopping_cart .cart .opencart {
+	
+}
+.shopping_cart span.cart_title{
+	
+}
+.shopping_cart span.no_product{
+	
+}
+.img-size{
+	width: 100%;
+	height: 200px;
+}
+.footer{
+	background-color: #3A393E;
+	height: 100px;
+}
+.footer_left p {
+    padding-top: 38px;
+    padding-left: 90px;
+    float: left;
+}
+.footer_right p {
+    float: right;
+    padding-right: 112px;
+    padding-top: 38px;
+}
